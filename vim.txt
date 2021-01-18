@@ -1,0 +1,27 @@
+VIM
+
+i --> Incert mode
+Esc -> command mode
+V  --> Visual Mode
+
+G -> Go to last line
+gg -> Go back 
+50 -> Go to 50th line from the current line
+
+h--> left
+j--> down
+k --> up
+l-->Right
+
+dd --> Delete a line
+u ---> Undo the deletion
+ctrl+r --> redo
+
+
+yy --> copy a line
+p ---> past in the below line
+P --> Past in the same line
+O --> Add a line above
+
+w --> Go to next word
+b --> go back to next work 
